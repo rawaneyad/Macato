@@ -5,7 +5,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 - [x] Create a new project on Github.
 - [x] Break down the project into 2-3 phases.
 - [x] Convert the above requirements into user stories for the App.
-- [ ] Create a user flow chart.
+- [x] Create a user flow chart.
 - [ ] Create a user journey, this could be displayed as a simple table. 
 
 ### User Stories
@@ -35,3 +35,13 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 - _As a chef_, I want to be able to offer discounts and offers.
 - _As a chef_, I want to be able to add feedback.
 
+### User Flow Chart
+#
+> User flow chart
+
+![](https://i.imgur.com/zvQmklo.jpg)
+
+#
+> Chef flow chart
+
+![](https://i.imgur.com/7YmOZzX.jpg)
