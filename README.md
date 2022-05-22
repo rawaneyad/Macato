@@ -6,7 +6,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 - [x] Break down the project into 2-3 phases.
 - [x] Convert the above requirements into user stories for the App.
 - [x] Create a user flow chart.
-- [ ] Create a user journey, this could be displayed as a simple table. 
+- [x] Create a user journey, this could be displayed as a simple table. 
 
 ### User Stories
 #
@@ -45,3 +45,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 > Chef flow chart
 
 ![](https://i.imgur.com/7YmOZzX.jpg)
+
+### User Journey
+
+The chef will open the Macato website, then the chef goes to signup if he hasn't an account or log in if he has an account then he will add his menu and offer discounts and offers. The user will open the Macato website, then the user will see existing menus from the main page. And he can search by chef name, or filter menus by price, categories, type of food, or chef gender... then he can choose any chef to see his profile. and he can submit a reservation request if he finds what he searches for. this reservation will appear in Chef's dashboard then a chef can choose an order if appropriate and send a confirmation email for booking to the user with details (Cooking equipment and ingredients required, Type of food, Chef arrival and departure time...). the user chooses to pay online or in person. Then both the chef and the user can rate each other. and the chef can edit, or delete items on his menu.
